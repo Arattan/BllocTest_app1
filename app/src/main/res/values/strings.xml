@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BllocTest_app1</string>
+    <string name="notification_service">Notification Listener Service</string>
+</resources>
